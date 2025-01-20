@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [LIBRARY_MANAGEMENT_SYSTEM](https://github.com/ayush-shah-dev/LIBRARY_MANAGEMENT_SYSTEM.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AYUSHSHAHGITHUB/MY_PORTFOLIO.git](https://github.com/ayush-shah-dev/MY_PORTFOLIO.git)
+- 👨‍💻 All of my projects are available at [https://github.com/ayush-shah-dev/MY_PORTFOLIO.git](https://github.com/ayush-shah-dev/MY_PORTFOLIO.git)
 
 - 💬 Ask me about **Python issues**
 
