@@ -1,7 +1,6 @@
 <h1 align="center">HII 👋, I'M AYUSH SHAH</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushshahgithub" alt="ayush-shah-dev" /></a> </p>
 
 - 🔭 I’m currently working on [CANTEEN_MANAGEMENT_SYSTEM](https://github.com/ayush-shah-dev/CANTEEN_MANAGEMENT_SYSTEM.git)
 
